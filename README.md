@@ -27,4 +27,4 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=plastic&logo=mongodb)
   ![Docker](https://img.shields.io/badge/-Docker-F7F7F8?style=plastic&logo=docker)
 
-![Git](https://github-readme-stats.vercel.app/api?username=webchenjie&theme=dark)
+![Git](https://github-readme-stats.vercel.app/api?username=webchenjie)
